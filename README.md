@@ -1,5 +1,7 @@
 # TELANGANA-GROWTH-ANALYSIS
 Objective: • Explore Stamp Registration, Transportation and Ts-Ipass Datasets. Understand their attributes, categories and time period. • Analyze trends and patterns within each department. • Identify growth opportunities and areas needing attention. 
+
+
 Telangana is one of the fastest growing states in india and one of the states with an open data policy. They have published all their data online.
 Huge Thanks to Mr. Kalvakuntla Taraka Rama Rao / KTR(Minister for IT, Industries and Municipal Administration), Mr. Jayesh Ranjan (Secretary, Information Technology (IT) Government of Telangana), Mr. Dileep Konatham(Director at Government of Telangana) and Mr. venu panjarla(Open Data Telangana) for publishng all their data online.
 
